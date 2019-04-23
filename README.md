@@ -1,2 +1,2 @@
 # sql<br>
-(visit online slite)[https://sqliteonline.com/]
+[visit online sqlite](https://sqliteonline.com/)
